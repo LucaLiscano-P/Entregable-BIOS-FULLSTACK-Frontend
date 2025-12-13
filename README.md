@@ -218,14 +218,6 @@ Sistema de paginación implementado en paneles administrativos:
 ### Toast Notifications
 Sistema de notificaciones para feedback de acciones del usuario
 
-## 🤝 Contribuir
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
 ## 📄 Licencia
 
 Este proyecto es parte de un entregable final para BIOS.
