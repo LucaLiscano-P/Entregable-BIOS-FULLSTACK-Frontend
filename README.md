@@ -1,4 +1,4 @@
-# BIOS Store - Frontend
+# Proyecto final BIOS - Frontend
 
 Aplicación web de e-commerce moderna desarrollada con React, TypeScript y Tailwind CSS.
 
