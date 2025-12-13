@@ -4,7 +4,7 @@ Aplicación web de e-commerce moderna desarrollada con React, TypeScript y Tailw
 
 ## 📋 Descripción
 
-BIOS Store es una plataforma de comercio electrónico completa que permite a los usuarios navegar productos por categorías, ver detalles de productos y realizar compras. Incluye un panel de administración robusto para gestionar productos, categorías y usuarios.
+Es una plataforma de comercio electrónico completa que permite a los usuarios navegar productos por categorías, ver detalles de productos y realizar compras. Incluye un panel de administración robusto para gestionar productos, categorías y usuarios.
 
 ## ✨ Características
 
