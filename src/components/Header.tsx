@@ -45,14 +45,6 @@ export default function Header() {
           {/* Right Actions */}
           <div className="flex items-center gap-4">
             {/* Search - Desktop */}
-            <div className="hidden lg:flex items-center gap-2 bg-white/6 backdrop-blur-sm rounded-xl px-4 py-2.5 border border-white/10 hover:border-purple-400/40 transition-all duration-300 animate-fade-in-delay">
-              <Search size={18} className="text-purple-300" />
-              <input
-                type="text"
-                placeholder="Buscar productos..."
-                className="bg-transparent text-sm outline-none placeholder:text-gray-300 w-48"
-              />
-            </div>
 
             <div className="hidden sm:flex items-center gap-3">
               {user ? (
